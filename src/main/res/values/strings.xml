@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="settings">Do Something</string>
+    <string name="gameStatus">Top of the first</string>
+</resources>
